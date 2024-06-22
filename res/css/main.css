@@ -13,6 +13,12 @@ a
 {
     color:cornflowerblue
 }
+h1
+{
+    background-image: linear-gradient(to right,#E74C3C,#00DDEB);
+    background-clip: text;
+    color: transparent;
+}
 hr
 {
     border:3px solid cornflowerblue;
