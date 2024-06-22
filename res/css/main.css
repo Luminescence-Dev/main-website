@@ -15,7 +15,13 @@ a
 }
 h1
 {
-    background-image: linear-gradient(to right,#E74C3C,#00DDEB);
+    background-image: linear-gradient(to right,#ff0000,#ff9900,#e8c414,#76e62c,#00b7ff,#8e44ad);
+    background-clip: text;
+    color: transparent;
+}
+.rainbow
+{
+    background-image: linear-gradient(to right,#ff0000,#ff9900,#e8c414,#76e62c,#00b7ff,#8e44ad);
     background-clip: text;
     color: transparent;
 }
