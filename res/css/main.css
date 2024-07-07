@@ -19,7 +19,7 @@ h1
     background-clip: text;
     color: transparent;
 }
-.rainbow
+rainbow
 {
     background-image: linear-gradient(to right,#ff0000,#ff9900,#e8c414,#76e62c,#00b7ff,#8e44ad);
     background-clip: text;
@@ -27,7 +27,8 @@ h1
 }
 hr
 {
-    border:3px solid cornflowerblue;
+    background-image: linear-gradient(to right, #ff0000, #ff9900, #e8c414, #76e62c, #00b7ff, #8e44ad);
+    height: 3px;
     width: 100%;
     margin: 20px 0;
 }
