@@ -11,7 +11,7 @@ body
 }
 a
 {
-    color:cornflowerblue
+    color:#2498db
 }
 h1
 {
@@ -31,6 +31,30 @@ hr
     height: 3px;
     width: 100%;
     margin: 20px 0;
+}
+red
+{
+    color:#e74c3c;
+}
+green
+{
+    color:#52c41a;
+}
+gold
+{
+    color:#ffc116;
+}
+blue
+{
+    color:#2498db;
+}
+footer
+{
+    text-align: center;
+    margin-top: 50px;
+    padding: 20px;
+    background-color: #bfbfbf;
+    color: #fff;
 }
 
 
